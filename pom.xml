@@ -10,7 +10,7 @@
 
     <properties>
         <maven.compiler.release>14</maven.compiler.release>
-        <vertx.version>4.0.3</vertx.version>
+        <vertx.version>4.1.0</vertx.version>
     </properties>
 
     <dependencies>
